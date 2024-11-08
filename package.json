@@ -14,6 +14,7 @@
   "dependencies": {
     "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
     "@babel/polyfill": "^7.12.1",
+    "@modules/faq": "file:./modules/faq",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/user-profile": "file:./modules/user-profile/",
     "@modules/zoom-free-calling": "file:./modules/zoom-free-calling/",

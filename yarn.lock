@@ -1703,6 +1703,9 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.5.tgz#4fc56c15c580b9adb7dc3c333a134e540b44bfb1"
   integrity sha512-Vo+PSpZG2/fmgmiNzYK9qWRh8h/CHrwD0mo1h1DzL4yzHNSfWYujGTYsWGreD000gcgmZ7K4Ys6Tx9TxtsKdDw==
 
+"@modules/faq@file:./modules/faq":
+  version "1.0.0"
+
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
 
@@ -1713,7 +1716,7 @@
     prop-types "15.8.1"
     react-native-elements "^2.3.2"
 
-"@modules/zoom-free-calling@file:./modules/zoom-free-calling/":
+"@modules/zoom-free-calling@file:./modules/zoom-free-calling":
   version "1.0.1"
   dependencies:
     react-native-base64 "0.2.1"
