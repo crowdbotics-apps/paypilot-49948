@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
 - [react-native-zoom-free-calling](modules/zoom-free-calling)
 - [django-disqus](backend/modules)
+- [django-openai](backend/modules)
 
 # Getting started: Frontend
 
